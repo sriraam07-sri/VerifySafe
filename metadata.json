@@ -1,0 +1,7 @@
+{
+  "name": "VerifySafe - Verify Before You Trust",
+  "description": "Futuristic scam verification platform for internship offers, job offers, UPI requests, and suspicious SMS messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
